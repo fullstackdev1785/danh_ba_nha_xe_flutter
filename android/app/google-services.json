@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "335723290350",
+    "firebase_url": "https://danh-ba-nha-xe.firebaseio.com",
+    "project_id": "danh-ba-nha-xe",
+    "storage_bucket": "danh-ba-nha-xe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335723290350:android:27fd1c91fd5f2fae",
+        "android_client_info": {
+          "package_name": "com.danh.ba.nha.xe.py.danh_ba_nha_xe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "335723290350-89vap9k6gljt4r5pcbrv77guiih4qucv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvyUsXI4wo6xvKXuSSUinjRd1yDSGJYec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "335723290350-89vap9k6gljt4r5pcbrv77guiih4qucv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
